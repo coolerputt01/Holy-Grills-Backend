@@ -2,3 +2,4 @@
 pyenv/
 *.json
 node_modules/
+api/node_modules/
